@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+/npm-debug.log*
+/yarn-error.log
+/package-lock.json
+
+# production
+/dist
+
+# misc
+.DS_Store
+
+# history
+.history
+
+/tmp
+/docs/.vuepress/dist/
+/docs/temp/
+# idea
+.idea
+.vscode
+
+# temp
+temp
+
+/packages/temp/
