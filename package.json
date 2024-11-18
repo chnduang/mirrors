@@ -15,5 +15,13 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.9.10",
     "vuepress": "^1.9.10"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chnduang/mirrors.git"
+  },
+  "homepage": "https://m.aduang.cn"
 }

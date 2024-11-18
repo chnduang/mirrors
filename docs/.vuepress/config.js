@@ -2,6 +2,7 @@ const base = "/";
 
 const nav = [
   { text: "镜像", link: "/" },
+  { text: "npm镜像", link: "/npm" },
   { text: "brew镜像", link: "/brew" },
   {
     text: "链接",
