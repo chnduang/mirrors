@@ -1,7 +1,7 @@
 const base = "/";
 
 const nav = [
-  { text: "镜像", link: "/" },
+  // { text: "镜像", link: "/" },
   { text: "npm镜像", link: "/npm" },
   { text: "brew镜像", link: "/brew" },
   { text: "docker镜像", link: "/docker" },
@@ -26,7 +26,7 @@ const nav = [
 
 module.exports = {
   title: "mirrors",
-  description: "镜像",
+  description: "镜像收集",
   base,
   host: "localhost",
   port: 9209,
