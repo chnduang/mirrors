@@ -4,6 +4,8 @@ const nav = [
   { text: "镜像", link: "/" },
   { text: "npm镜像", link: "/npm" },
   { text: "brew镜像", link: "/brew" },
+  { text: "docker镜像", link: "/docker" },
+  { text: "python镜像", link: "/python" },
   {
     text: "链接",
     ariaLabel: "链接",
